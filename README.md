@@ -6,9 +6,9 @@
 
 The official website of **OurWorld Freezone**
 
-Production(master branch) [www.ourworld.freezone.tf](https://www.ourzone.ourworld.tf/)
+Production(master branch) [www.ourworld.freezone.tf](https://freezone.ourworld.tf//)
 
-Staging(developmentr branch) [www2.ourworld.freezone.tf](https://www2.ourzone.ourworld.tf/)
+Staging(developmentr branch) [www2.ourworld.freezone.tf](https://www2.freezone.ourworld.tf/)
 
 
 Last updated: March 2023
