@@ -1,15 +1,7 @@
 # OurWorld Freezone
 
-![](../static/images/logo_placeholder2.png)
-
-## About
-
-The official website of **OurWorld Freezone**
-
-Production(master branch) [www.ourworld.freezone.tf](https://freezone.ourworld.tf//)
-
-Staging(developmentr branch) [www2.ourworld.freezone.tf](https://www2.freezone.ourworld.tf/)
-
+website repo moved to:
+https://git.ourworld.tf/ourworld_web/www_ourworld_freezone
 
 Last updated: March 2023
 
