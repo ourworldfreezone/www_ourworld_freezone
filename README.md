@@ -1,7 +1,7 @@
 # OurWorld Freezone
 
 website repo moved to:
-https://git.ourworld.tf/ourworld_web/www_ourworld_freezone
+[https://git.ourworld.tf/ourworld_web/www_ourworld_freezone](https://git.ourworld.tf/ourworld_web/www_ow_freezone/settings)
 
 Last updated: March 2023
 
